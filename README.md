@@ -1,0 +1,1 @@
+This is a quiz about Covid 19. This was a project that was made to test out Radio Buttons and the basics. This is made using the Tkinter module. 😀😶😜
